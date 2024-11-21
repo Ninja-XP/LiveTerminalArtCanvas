@@ -1,4 +1,4 @@
-## [Unreleased]
+## [Released]
 ### Added
 - Initial version of Live Terminal Art Canvas with basic drawing functionality.
 
