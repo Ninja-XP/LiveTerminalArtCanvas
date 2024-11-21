@@ -1,7 +1,3 @@
-### **`user_guide.md`**
-
-# User Guide
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
