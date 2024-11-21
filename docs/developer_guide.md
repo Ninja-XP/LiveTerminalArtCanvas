@@ -79,7 +79,7 @@ We welcome contributions to the project! Please follow these guidelines when sub
 2. Create a feature branch: `git checkout -b feature-branch`.
 
 
-3. Commit your changes: `git commit -m "Description of changes"``.
+3. Commit your changes: `git commit -m "Description of changes"`.
 
 
 4. Push the changes to your forked repository: `git push origin feature-branch`.
