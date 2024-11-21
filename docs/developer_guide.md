@@ -23,7 +23,7 @@ Ensure that you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LiveTerminalArtCanvas.git
+   git clone https://github.com/Ninja-XP/LiveTerminalArtCanvas.git
    cd LiveTerminalArtCanvas
    ```
 
