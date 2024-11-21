@@ -11,6 +11,6 @@ class Renderer:
             for x, char in enumerate(row):
                 color = color_grid[y][x]
                 if x == cursor_x and y == cursor_y:
-                    stdscr.addstr(y, x, "ʕ˖͜͡˖ʔ", curses.color_pair(color))
+                    stdscr.addstr(y, x, "@", curses.color_pair(color))
                 else:
                     stdscr.addstr(y, x, char, curses.color_pair(color))
