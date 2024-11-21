@@ -1,1 +1,1 @@
-# LiveTerminalArtCanvas
+# Live Terminal Art Canvas
