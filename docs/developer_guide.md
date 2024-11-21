@@ -113,4 +113,4 @@ To run the tests for this project:
 
 ### Deployment
 
-For deployment, ensure your environment matches the development setup, and run the application via the ./scripts/run.sh script.
+For deployment, ensure your environment matches the development setup, and run the application via the `./scripts/run.sh` script.
