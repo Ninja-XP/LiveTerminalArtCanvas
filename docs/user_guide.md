@@ -29,7 +29,7 @@ Welcome to the **Live Terminal Art Canvas** user guide! This application allows 
 4. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/LiveTerminalArtCanvas.git
+   git clone https://github.com/Ninja-XP/LiveTerminalArtCanvas.git
    cd LiveTerminalArtCanvas
    ```
 
