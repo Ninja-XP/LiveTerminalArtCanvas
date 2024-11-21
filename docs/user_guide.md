@@ -72,21 +72,21 @@ Upon launching the application, you will see a blank canvas in the terminal. You
 
 ## Keyboard Shortcuts
 
-Arrow Keys: Move the cursor around the canvas.
+*`Arrow Keys`*: Move the cursor around the canvas.
 
-Spacebar: Draw at the current cursor position.
+*`Spacebar`*: Draw at the current cursor position.
 
-1, 2, 3, 4: Switch to different colors (Red, Green, Blue, Yellow).
+*`1, 2, 3, 4`*: Switch to different colors (Red, Green, Blue, Yellow).
 
-C: Clear the canvas and reset the state.
+*`C`*: Clear the canvas and reset the state.
 
-S: Save the current canvas to a file.
+*`S`*: Save the current canvas to a file.
 
-L: Load a previously saved canvas.
+*`L`*: Load a previously saved canvas.
 
-R: Activate the rain animation effect.
+*`R`*: Activate the rain animation effect.
 
-Q: Quit the application.
+*`Q`*: Quit the application.
 
 
 ## Troubleshooting
