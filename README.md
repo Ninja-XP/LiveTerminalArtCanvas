@@ -2,7 +2,9 @@
 
 Welcome to **Live Terminal Art Canvas** — a fun and interactive terminal-based drawing application that lets you create art using your keyboard! With support for colors, animations, and saving/loading canvas states, this project brings creativity to your terminal.
 
-![Canvas Screenshot](assets/screenshot.png)
+![Canvas Screenshot]
+![Screenshot_2024_1121_113010](https://github.com/user-attachments/assets/7aff2374-2fcf-44f8-96d3-2263b79e6d02)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -111,10 +113,12 @@ Once the application is running, you can interact with the canvas using the foll
 
 Here are some screenshots of the Live Terminal Art Canvas in action:
 
+![Screenshot_2024_1121_112557](https://github.com/user-attachments/assets/52bfbb38-c40d-4455-aa62-d2a07b544cff)
 
 
 - Use the arrow keys to move the cursor and press spacebar to draw.
 
+![Screenshot_2024_1121_112909](https://github.com/user-attachments/assets/99bc3bac-835b-4ada-be6e-ba881a93f1c9)
 
 
 - Change colors and draw your masterpiece!
